@@ -2,4 +2,6 @@ payload:
     #示例
     #- www.google.com
     #- +.google.com
+    - +.qobuz.com
+    - qobuz.surveysparrow.com
 
