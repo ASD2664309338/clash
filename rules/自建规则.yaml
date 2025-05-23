@@ -1,7 +1,7 @@
 payload:
     #示例
-    #- www.google.com
-    #- +.google.com
+    #- www.google.com  精确匹配這个网址，有3w和没3w完全不一样
+    #- +.google.com  +号是通配符 這个网址
     - +.qobuz.com
     - qobuz.surveysparrow.com
 
